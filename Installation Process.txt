@@ -1,0 +1,4 @@
+Open StartPage.java
+Admin username&pass:-admin
+create customer's table and other database tables  in oracle 10g xe
+and enjoy the application
